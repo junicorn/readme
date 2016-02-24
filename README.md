@@ -19,6 +19,9 @@ junicorn为国内开源爱好者提供一个以技术规划为驱动力的Java�
 4. 发展和壮大组织
 5. 为组织成员提供技术指导
 
-[组织成员列表](users.md)
+- [组织成员列表](users.md)
+- [近期事项列表](events.md)
+
+有任何问题，在[这里](https://github.com/junicorn/readme/issues/new)发表。
 
 加入QQ群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7d479bd50a448c14e69a7af11f5b7c7216f780534faddbbdb85a08291100b0f2"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java开源技术小组" title="Java开源技术小组"></a>
